@@ -1,4 +1,4 @@
 # testgithub
 これは練習用おテストGithubです。
-1. テストGithubです。
+1. テストのGithubです。
 2. 練習です。
